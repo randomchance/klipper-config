@@ -1,0 +1,11 @@
+#############################################################################
+# These files should never be in this folder, but better safe than sorry
+#############################################################################
+# moonraker backups
+*.bkp
+
+# Stored klibber varibles
+# Excluded for now, not sure if I want this stored or not yet
+STORED_VARIABLES.cfg
+
+#############################################################################
