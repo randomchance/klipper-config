@@ -31,6 +31,15 @@ type: disabled
 | Extruder        | `Revo Hemera-XS`
 | Z Axis Mod      | Official Dual Z kit - went dual steppers for "PRUSA Style" alignment [^2]
 
+# 4.2.2 Board drive types
+
+| Letter in sharpie | Type
+| -- | -- |
+C | HR4998
+E | A4988
+A | TMC2208
+B | TMC2209
+H | TMC2225
 
 [^1]: The C is written on the SD Card slot, and indicates the stepper driver type
 [^2]: I planned to do a belt driven dual Z mod, but then I learned that you can "auto-level"
